@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  overflow: hidden;
+  width: 100%;
+  height: 50%;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  height: 100%;
+}
+
+.text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="/assets/img/projects-img-1.png" alt="Two Story House" class="image">
+  <div class="overlay">
+    <div class="text">
+      House Information
+      <br>
+      Two Story House
+      <br>
+      January 12, 1944
+      <br>
+      <br>
+      Construction of a two-story brick home on a 1/4 acre, waterfront lot, with garage and additions.
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+

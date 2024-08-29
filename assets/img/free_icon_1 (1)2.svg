@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.83333in" height="2.83333in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 2833 2833" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   
+    .fil0 {fill:#05B443}
+    .fil1 {fill:#FDFDFD}
+   
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"></metadata>
+  <circle class="fil0" cx="1417" cy="1417" r="1417" id="id_101" style="fill: rgb(255, 60, 0);"></circle>
+  <path class="fil1" d="M1417 2270c-229,0 -444,-89 -604,-249 -161,-161 -250,-376 -250,-604 0,-228 89,-442 250,-603 161,-162 375,-251 604,-251 228,0 443,89 604,251 160,161 249,375 249,603 0,228 -89,443 -249,604 -161,160 -376,249 -604,249zm-174 -393c-6,0 -12,-3 -16,-7l-90 -90c-9,-9 -9,-24 0,-33l330 -331 -330 -330c-4,-4 -7,-10 -7,-17 0,-6 3,-12 7,-16l90 -87c9,-9 24,-9 33,0l437 434c4,4 7,10 7,16 0,7 -3,12 -7,17l-437 437c-5,4 -11,7 -17,7zm-57 -114l57 57 404 -403 -404 -401 -56 54 330 330c9,9 9,24 0,33l-331 330zm231 407c-202,0 -391,-78 -533,-221 -142,-142 -221,-331 -221,-532 0,-202 79,-391 221,-533 142,-142 331,-221 533,-221 201,0 390,79 532,221 142,142 221,331 221,533 0,201 -78,390 -221,532 -142,142 -331,221 -532,221zm0 -1460c-390,0 -707,317 -707,707 0,389 317,706 707,706 389,0 706,-317 706,-706 0,-390 -317,-707 -706,-707z" id="id_102"></path>
+ </g>
+</svg>
