@@ -508,7 +508,24 @@ li{
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
+/* Media Queries */
+@media (min-width: 768px) {
+  html {
+      width: 20%;
+  }
 
+  .flex-item {
+      margin: 15px;
+  }
+}
+
+@media (min-width: 1024px) {
+html {
+      width: 100%;
+  }
+
+ 
+}
 
 /* For medium devices */
 
